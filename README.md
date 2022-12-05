@@ -5,7 +5,7 @@ you can change the range of gap time from 0 to any ,but for the sake of duration
 
 Procedure of autotick works:
 
-the 1st step you need to download auto.js app
+1st step you need to download auto.js app
 
 2nd move the *.js document to auto.js
 
