@@ -12,7 +12,7 @@ let config = {
   "workTitle": "工作台",
   "kaoQinTitle": "考勤打卡",
   "randomMin": 0, // 随机最小数
-  "randomMax": 2, // 随机最大数
+  "randomMax": 3, // 随机最大数
   "apiUrl": "http://apis.juhe.cn/fapig/calendar/day.php",
   "apiKey": "",
 };
