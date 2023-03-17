@@ -13,4 +13,4 @@ Procedure of autotick works:
 
 4th setting the phone accessibility->download service ->auto.js on
 
-then the program will check in and out automatically
+The program will check in and out automatically
