@@ -13,4 +13,4 @@ Procedure of autotick works:
 
 4th setting the phone accessibility->download service ->auto.js on
 
-The program will check in and out automatically
+The dingtalk will check in and out automatically
